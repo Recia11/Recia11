@@ -1,4 +1,3 @@
-### Hello
 
 I currently work in data consulting, where I have developed a love for programming in Clojure. My background is diverse from data analysis to project management to engineering design. I have worked with various BI tools such as Tableau, Sisense, and Periscope and have also developed my own tools to automate ETL processes. 
 
